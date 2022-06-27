@@ -2,6 +2,8 @@
 
 # Fifteen [![Latest release](https://img.shields.io/github/v/release/italankin/fifteen-releases)](https://github.com/italankin/fifteen-releases/releases/latest) 
 
+Join open testing on [Google Play](https://play.google.com/apps/testing/com.italankin.fifteen2).
+
 ## Features
 
 * Game types: classic, snake, spiral
