@@ -25,3 +25,7 @@
 ## Downloads
 
 APKs can be found at [releases](https://github.com/italankin/fifteen-releases/releases).
+
+## Changelog
+
+See [CHANGELOG.md](./CHANGELOG.md)
