@@ -1,6 +1,6 @@
 ![Cover](./screenshots/cover.png)
 
-# Fifteen
+# Fifteen [![Latest release](https://img.shields.io/github/v/release/italankin/fifteen-releases)](https://github.com/italankin/fifteen-releases/releases/latest) 
 
 ## Features
 
