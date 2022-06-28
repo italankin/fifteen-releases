@@ -1,3 +1,7 @@
+# 0.0.5
+
+* Fixed timer display
+
 # 0.0.3
 
 * Added privacy policy
