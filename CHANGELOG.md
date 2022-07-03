@@ -1,3 +1,7 @@
+# 0.0.6
+
+* Fixed statistics calculation
+
 # 0.0.5
 
 * Fixed timer display
