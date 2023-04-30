@@ -1,3 +1,7 @@
+# 1.0.0
+
+* Technical release
+
 # 0.0.7
 
 * Added Fringe-3 coloring
