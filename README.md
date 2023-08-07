@@ -26,7 +26,7 @@
 
 APKs can be found at [releases](https://github.com/italankin/fifteen-releases/releases).
 
-You can also join open testing on [Google Play](https://play.google.com/apps/testing/com.italankin.fifteen2).
+You can also download the app directly from [Google Play](https://play.google.com/store/apps/details?id=com.italankin.fifteen2).
 
 ## Changelog
 
