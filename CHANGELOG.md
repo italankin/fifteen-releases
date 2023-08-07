@@ -1,3 +1,9 @@
+# 1.1.0
+
+* Added Russian translation
+* Added field scale and position setting
+* Added RGB sliders to layer color picker
+
 # 1.0.0
 
 * Technical release
