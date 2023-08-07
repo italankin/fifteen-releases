@@ -1,3 +1,7 @@
+# 1.2.0
+
+* Fixed field gravity
+
 # 1.1.0
 
 * Added Russian translation
