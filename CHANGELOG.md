@@ -1,3 +1,10 @@
+# 1.3.0
+
+* Added binary tile face
+* Added settings for secondary Fringe-3 colors
+* Added random colors scheme
+* Added hover trail
+
 # 1.2.1
 
 * Fix tile animations
