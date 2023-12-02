@@ -1,3 +1,7 @@
+# 1.2.1
+
+* Fix tile animations
+
 # 1.2.0
 
 * Fixed field gravity
