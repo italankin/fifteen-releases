@@ -1,3 +1,8 @@
+# 1.4.0-rc1
+
+* Added option to count taps instead of individual tile moves
+* Added option to delete solves data
+
 # 1.3.0
 
 * Added binary tile face
