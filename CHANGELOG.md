@@ -1,4 +1,4 @@
-# 1.4.0-rc3
+# 1.4.0-rc4
 
 * Added option to count taps instead of individual tile moves
 * Added option to delete solves data
