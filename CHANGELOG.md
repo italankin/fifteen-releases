@@ -1,3 +1,7 @@
+# 1.4.1
+
+* Improve touch handling
+
 # 1.4.0
 
 * Added option to count taps instead of individual tile moves
