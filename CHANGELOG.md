@@ -1,3 +1,14 @@
+# 1.5.0
+
+* Added moves recording (can be enabled in Settings)
+* Added scramble editor
+* Added options for field margin, background and tile text size
+* Added option to show moves on main screen
+* Added options to disable hover and diagonal moves for advanced controls
+* Redesigned layer color editor
+* Added option to disable pre-inspection
+* Some minor improvements and bug-fixes
+
 # 1.4.1
 
 * Improve touch handling
