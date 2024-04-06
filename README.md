@@ -10,6 +10,7 @@
 * Convinient controls: slide, click or hover
 * Normal and hard modes
 * History of solves and statistics
+* Solution recording
 * Random missing tile mode
 
 ## Screenshots
