@@ -1,3 +1,7 @@
+# 1.5.1
+
+* Fixed drawing issues on Android 9
+
 # 1.5.0
 
 * Added moves recording (can be enabled in Settings)
