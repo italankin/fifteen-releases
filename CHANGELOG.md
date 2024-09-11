@@ -1,3 +1,8 @@
+# 1.5.3
+
+* Set minimum game size to 2x2
+* Allow changing maximum puzzle size
+
 # 1.5.1
 
 * Fixed drawing issues on Android 9
