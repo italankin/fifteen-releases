@@ -1,3 +1,7 @@
+# 1.5.4
+
+* Fixed crash
+
 # 1.5.3
 
 * Set minimum game size to 2x2
