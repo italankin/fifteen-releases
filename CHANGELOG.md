@@ -1,3 +1,7 @@
+# 1.5.5
+
+* Records can now be imported into current session
+
 # 1.5.4
 
 * Fixed crash
