@@ -1,3 +1,8 @@
+# 1.6.0
+
+* Added speed controls for replays
+* Added vibration settings
+
 # 1.5.5
 
 * Records can now be imported into current session
